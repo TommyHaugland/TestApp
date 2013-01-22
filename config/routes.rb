@@ -1,5 +1,5 @@
 TestApp::Application.routes.draw do
-  resources :posts
+  resources :users
 
 
   #get "home/index"
